@@ -1,0 +1,20 @@
+{
+  "name": "my_version_control",
+  "version": "1.0.0",
+  "description": "Trying to make a git like version control",
+  "main": "Track.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "version_control"
+  ],
+  "author": "Aditya Saini",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "commander": "^12.1.0",
+    "diff": "^5.2.0"
+  }
+}
